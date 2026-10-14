@@ -4,8 +4,7 @@
 # University: COER University, Roorkee
 # Course: B.Tech Computer Science and Engineering
 # Subject: Data Structures-I
-# Lab Sheet: 6
-# Experiment: Binary Tree Traversals
+# Experiment: Binary Tree Traversals(MTE Practicle)
 # ==================================================
 # Lab Sheet 6: Binary Tree Traversals
 
